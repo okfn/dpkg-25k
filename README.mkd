@@ -1,0 +1,4 @@
+# UK 25k Departmental Spending
+
+An [OpenSpending](http://openspending.org) model for the [UK Departments 25k
+dataset](http://ckan.net/package/ukgov-25k-spending).
